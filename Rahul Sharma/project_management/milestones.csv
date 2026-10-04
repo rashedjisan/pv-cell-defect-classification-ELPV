@@ -1,0 +1,7 @@
+﻿milestone_id,name,deliverable,status
+M1,Foundation,"Source pinning, repository and data audit",Complete
+M2,Data design,"Endpoint, split, preprocessing and leakage controls",Complete
+M3,Model development,Four-model training and checkpoint evidence,Complete
+M4,Evaluation,"Locked test, statistics, calibration, robustness and explainability",Complete
+M5,Delivery,"Final report, architecture and evidence packaging",Complete
+M6,Authentic PM evidence,"Add actual board URL, commits, PRs and collaboration screenshots",Team action required

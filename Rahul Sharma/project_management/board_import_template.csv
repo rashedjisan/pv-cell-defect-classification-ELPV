@@ -1,0 +1,17 @@
+﻿Title,Assignee,Status,Milestone,Evidence
+Repository setup and pin ELPV source,Member 1,Done,M1,artifacts/documentation/DATA_PROVENANCE_AND_LICENSE.txt
+"Inventory, integrity and count audit",Member 1,Done,M1,artifacts/tables/dataset_audit.csv
+Construct high-confidence binary endpoint,Member 2,Done,M2,artifacts/tables/binary_dataset.csv
+Create frozen class × cell-type split,Member 2,Done,M2,artifacts/tables/split_summary.csv
+Preprocessing and train-only augmentation,Member 2,Done,M2,artifacts/tables/preprocessing_config.csv
+Train logistic baseline,Member 3,Done,M3,artifacts/models/traditional_logistic_baseline.joblib
+Train Custom CNN,Member 3,Done,M3,artifacts/models/best_elpv_cnn.pt
+Train/fine-tune ResNet18,Member 3,Done,M3,artifacts/models/best_resnet18_elpv.pt
+Train/fine-tune EfficientNet-B0,Member 3,Done,M3,artifacts/models/best_efficientnet_b0_elpv.pt
+Lock validation checkpoints and thresholds,Member 4,Done,M4,artifacts/tables/all_model_test_comparison.csv
+Locked test metrics and prediction tables,Member 4,Done,M4,artifacts/tables/all_model_test_comparison.csv
+Bootstrap confidence intervals and McNemar tests,Member 4,Done,M4,artifacts/tables/resnet18_bootstrap_confidence_intervals.csv
+Calibration and robustness analyses,Member 4,Done,M4,artifacts/tables/resnet18_calibration_summary.csv
+"Grad-CAM, error, subgroup and similarity analyses",Member 4,Done,M4,artifacts/tables/resnet18_celltype_performance.csv
+"Final report, diagrams and reproducibility package",Member 5,Done,M5,assessment_reports/Final_Assessment_Report.pdf
+Add genuine project-board/commit collaboration evidence,Member 5,Backlog,M5,project_management/COLLABORATION_EVIDENCE.md

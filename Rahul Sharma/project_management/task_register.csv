@@ -1,0 +1,17 @@
+﻿task_id,milestone,task,owner,status,evidence
+ELPV-01,M1,Repository setup and pin ELPV source,Member 1,Done,artifacts/documentation/DATA_PROVENANCE_AND_LICENSE.txt
+ELPV-02,M1,"Inventory, integrity and count audit",Member 1,Done,artifacts/tables/dataset_audit.csv
+ELPV-03,M2,Construct high-confidence binary endpoint,Member 2,Done,artifacts/tables/binary_dataset.csv
+ELPV-04,M2,Create frozen class × cell-type split,Member 2,Done,artifacts/tables/split_summary.csv
+ELPV-05,M2,Preprocessing and train-only augmentation,Member 2,Done,artifacts/tables/preprocessing_config.csv
+ELPV-06,M3,Train logistic baseline,Member 3,Done,artifacts/models/traditional_logistic_baseline.joblib
+ELPV-07,M3,Train Custom CNN,Member 3,Done,artifacts/models/best_elpv_cnn.pt
+ELPV-08,M3,Train/fine-tune ResNet18,Member 3,Done,artifacts/models/best_resnet18_elpv.pt
+ELPV-09,M3,Train/fine-tune EfficientNet-B0,Member 3,Done,artifacts/models/best_efficientnet_b0_elpv.pt
+ELPV-10,M4,Lock validation checkpoints and thresholds,Member 4,Done,artifacts/tables/all_model_test_comparison.csv
+ELPV-11,M4,Locked test metrics and prediction tables,Member 4,Done,artifacts/tables/all_model_test_comparison.csv
+ELPV-12,M4,Bootstrap confidence intervals and McNemar tests,Member 4,Done,artifacts/tables/resnet18_bootstrap_confidence_intervals.csv
+ELPV-13,M4,Calibration and robustness analyses,Member 4,Done,artifacts/tables/resnet18_calibration_summary.csv
+ELPV-14,M4,"Grad-CAM, error, subgroup and similarity analyses",Member 4,Done,artifacts/tables/resnet18_celltype_performance.csv
+ELPV-15,M5,"Final report, diagrams and reproducibility package",Member 5,Done,assessment_reports/Final_Assessment_Report.pdf
+ELPV-16,M5,Add genuine project-board/commit collaboration evidence,Member 5,Needs team input,project_management/COLLABORATION_EVIDENCE.md
