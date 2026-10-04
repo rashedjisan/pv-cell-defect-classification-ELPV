@@ -1,0 +1,10 @@
+Risk,Impact,Likelihood,Mitigation,Accountable_Role
+Ambiguous labels,High,Medium,Exclude intermediate labels; preserve counts; consider ordinal study,Data owner
+Cross-split similarity,High,Medium,MD5/pHash/correlation audit and exclusion sensitivity,Data reviewer
+Module-level dependence,High,Unknown,Acquire module IDs and repeat group-aware evaluation,Evaluation owner
+Minority-class misses,High,Medium,"Weighting, PR metrics, threshold locking and FN review",Model reviewer
+Domain shift,High,High,No deployment claim; acquire independent modules/sites/devices,Project lead
+Overconfidence,High,Medium,"Calibration, both probabilities, uncertainty flag and human escalation",Safety reviewer
+Compute/reproducibility,Medium,Medium,"Pinned source, fixed seed, environment and saved checkpoints",Repository owner
+Repository inactivity,Medium,Medium,"Weekly Jira review, stale-ticket escalation and backup owner",Team lead
+Uneven participation,High,Medium,"Named issues, commits, PRs and reviews checked each sprint",Team lead

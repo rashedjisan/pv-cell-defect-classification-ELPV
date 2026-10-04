@@ -1,0 +1,4 @@
+Model,False_Positive,False_Negative,Total_Errors
+Custom,48,26,74
+ResNet18,34,21,55
+EfficientNet,36,24,60

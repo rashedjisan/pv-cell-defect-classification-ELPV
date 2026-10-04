@@ -1,0 +1,2 @@
+Model,Selected_Threshold,Selection_Data,Selection_Metric
+ResNet18,0.2609410881996155,Validation only,F1

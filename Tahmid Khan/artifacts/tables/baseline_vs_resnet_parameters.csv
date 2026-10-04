@@ -1,0 +1,3 @@
+Model,Total_Parameters,Trainable_Parameters
+Custom CNN,389057,389057
+ResNet18 Stage 1,11177025,513
