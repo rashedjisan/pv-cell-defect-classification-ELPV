@@ -1,0 +1,4 @@
+Split,Total,Functional,Defective,Mono,Poly
+Train,1556,1056,500,631,925
+Validation,333,226,107,135,198
+Test,334,226,108,135,199
