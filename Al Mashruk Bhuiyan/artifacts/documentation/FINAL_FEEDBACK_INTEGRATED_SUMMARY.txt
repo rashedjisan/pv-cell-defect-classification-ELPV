@@ -1,0 +1,17 @@
+ELPV FINAL FEEDBACK-INTEGRATED SUMMARY
+Pinned revision: 93e82ae507c36b3f2c8227eade8b792fcbefcca6
+Source images: 2,624; definite binary images: 2,223; ambiguous excluded: 401
+Train/validation/test: 1,556/333/334
+Positive class: Defective (1); FN = defective predicted functional
+
+FOUR-MODEL LOCKED TEST COMPARISON
+                  Model  Accuracy  Precision  Recall  Specificity     F1  Balanced_Accuracy  ROC_AUC  Average_Precision  Locked_Threshold  Parameters
+Logistic pixel baseline    0.7455     0.5865  0.7222       0.7566 0.6473             0.7394   0.7800             0.7068            0.3300        1025
+             Custom CNN    0.7784     0.6308  0.7593       0.7876 0.6891             0.7734   0.8462             0.7696            0.5274      389057
+               ResNet18    0.8353     0.7190  0.8056       0.8496 0.7598             0.8276   0.9182             0.8937            0.2609    11177025
+        EfficientNet-B0    0.8204     0.7000  0.7778       0.8407 0.7368             0.8092   0.9142             0.8760            0.3600     4008829
+
+Best observed F1: ResNet18 (0.7598)
+Best observed ROC-AUC: ResNet18 (0.9182)
+
+Interpretation: results concern a controlled, definite-label subset. Intermediate annotations were excluded; module-level independence is unavailable; a small number of non-identical highly similar images cross splits; and no independent external dataset was evaluated. Controlled perturbations are not external validation. This is decision-support research, not deployment evidence.

@@ -1,0 +1,4 @@
+Source: https://github.com/zae-bayern/elpv-dataset.git
+Pinned commit: 93e82ae507c36b3f2c8227eade8b792fcbefcca6
+Images: CC BY-NC-SA 4.0; code: Apache-2.0, as stated by the official repository.
+Cite: Buerhop-Lutz et al. (2018), DOI 10.4229/35thEUPVSEC20182018-5CV.3.15; Deitsch et al. (2019), DOI 10.1016/j.solener.2019.02.067.

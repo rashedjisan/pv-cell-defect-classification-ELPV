@@ -1,0 +1,1 @@
+Insert every student's real name/ID and accessible Jira URL. Replace every TEAM MUST COMPLETE/ADD field. Link Draw.io nodes to Jira epics/issues and GitHub branches, commits, PRs and reviews. Record sprint dates, dependencies, tests, definitions of done, approvals, blockers and scope changes. These records must not be fabricated.
