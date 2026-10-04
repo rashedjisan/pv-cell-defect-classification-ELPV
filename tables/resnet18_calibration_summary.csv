@@ -1,9 +1,0 @@
-Metric,Value
-Brier Score,0.09441715716784249
-Expected Calibration Error,0.05421087463514181
-Mean Confidence Correct,0.9367194463600409
-Mean Confidence Incorrect,0.6505771158852001
-Median Confidence Correct,0.987753235
-Median Confidence Incorrect,0.6906898
-Incorrect Predictions,55.0
-High Confidence Errors >=0.80,20.0

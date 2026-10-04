@@ -1,8 +1,0 @@
-Setting,Value
-Image size,224.0
-Batch size,32.0
-Train mean,0.593547523021698
-Train std,0.1612832099199295
-Functional,1056.0
-Defective,500.0
-Positive class weight,2.111999988555908

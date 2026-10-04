@@ -1,4 +1,0 @@
-Model_A,Model_B,A_Correct_B_Wrong,A_Wrong_B_Correct,Discordant_Pairs,Exact_P_Value,Significant_0.05
-Custom CNN,ResNet18,26,45,71,0.03192716208321237,True
-Custom CNN,EfficientNet-B0,29,43,72,0.12491820036864004,False
-ResNet18,EfficientNet-B0,21,16,37,0.5113757815852296,False

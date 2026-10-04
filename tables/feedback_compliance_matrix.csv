@@ -1,8 +1,0 @@
-Feedback_Item,Status,Evidence_or_Action
-Architecture/tool selection,Strengthened,Architecture and alternatives section
-Workflow detail,Template supplied,workflow_governance_template_REQUIRES_REAL_DATA.csv
-Governance/risk,Strengthened,Review gates and risk_register.csv
-Collaboration evidence,External action required,"Actual names, Jira, commits and reviews cannot be fabricated"
-Documentation/referencing,Strengthened,"Pinned provenance, citation and generated manifest"
-Draw.io–Jira consistency,Template supplied,drawio_jira_consistency_REQUIRES_REAL_LINKS.csv
-Traditional baseline,Implemented,Logistic pixel baseline

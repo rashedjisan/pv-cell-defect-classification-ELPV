@@ -1,6 +1,0 @@
-filename,filepath,label,class_name,cell_type,Defective_Probability,Predicted_Label,Predicted_Class,Correct
-cell1610.png,/content/elpv-dataset/src/elpv_dataset/data/images/cell1610.png,0,Functional,mono,0.023808477,0,Functional,True
-cell1550.png,/content/elpv-dataset/src/elpv_dataset/data/images/cell1550.png,0,Functional,mono,0.06795919,0,Functional,True
-cell1164.png,/content/elpv-dataset/src/elpv_dataset/data/images/cell1164.png,0,Functional,mono,0.12033334,0,Functional,True
-cell1363.png,/content/elpv-dataset/src/elpv_dataset/data/images/cell1363.png,0,Functional,mono,0.00071778893,0,Functional,True
-cell1200.png,/content/elpv-dataset/src/elpv_dataset/data/images/cell1200.png,0,Functional,mono,0.09238576,0,Functional,True

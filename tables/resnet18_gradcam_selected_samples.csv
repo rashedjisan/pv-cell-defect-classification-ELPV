@@ -1,9 +1,0 @@
-filename,label,class_name,ResNet18_Prediction,ResNet18_Probability,Confidence,Category,cell_type
-cell0246.png,1,Defective,1,0.9999981,0.9999981,TP,poly
-cell0434.png,1,Defective,1,0.9999907,0.9999907,TP,mono
-cell1758.png,0,Functional,0,4.5000743e-07,0.99999954999257,TN,poly
-cell1763.png,0,Functional,0,4.510661e-07,0.9999995489339,TN,poly
-cell0623.png,0,Functional,1,0.8561561,0.8561561,FP,poly
-cell1024.png,0,Functional,1,0.8424747,0.8424747,FP,mono
-cell1820.png,1,Defective,0,0.000115565614,0.999884434386,FN,poly
-cell1103.png,1,Defective,0,0.0014839013,0.9985160987,FN,mono

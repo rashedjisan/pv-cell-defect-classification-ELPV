@@ -1,7 +1,0 @@
-Drawio_Node,Notebook_Workflow_ID,Jira_Epic_or_Issue_URL,Consistency_Status
-Data ingestion/audit,W1,TEAM MUST ADD,Not evidenced until linked
-Preprocessing/split,W2,TEAM MUST ADD,Not evidenced until linked
-Model training,W3,TEAM MUST ADD,Not evidenced until linked
-Evaluation,W4,TEAM MUST ADD,Not evidenced until linked
-Explainability/robustness,W5,TEAM MUST ADD,Not evidenced until linked
-Interface/report/release,W6,TEAM MUST ADD,Not evidenced until linked

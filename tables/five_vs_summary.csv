@@ -1,6 +1,0 @@
-V,Project_specific_description
-Volume,"2,624 source images; 2,223 definite-label images; 86.07 MiB; dimensions {(300, 300): 2624}; grayscale PNG."
-Velocity,Static research corpus. A production extension would accept individual or batch EL uploads after acquisition.
-Variety,"Functional/defective certainty labels, intermediate probabilities, mono/poly module types, defect appearances and controlled perturbations."
-Veracity,"Expert-derived probabilistic annotations; ambiguous labels excluded; corruption, missing files, split overlap, hashes and perceptual similarity audited."
-Value,Prioritises potentially defective cells for expert review while reporting uncertainty and scope limitations.

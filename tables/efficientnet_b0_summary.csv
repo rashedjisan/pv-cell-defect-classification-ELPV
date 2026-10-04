@@ -1,2 +1,0 @@
-Model,Total_Parameters,Trainable_Stage2,Best_Epoch,Best_Val_Accuracy,Best_Val_F1,Best_Val_AUC
-EfficientNet-B0,4008829,3157021,23,0.8648648648648649,0.7804878048780488,0.9177487387312878
